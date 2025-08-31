@@ -2,7 +2,7 @@
 
 I have developed a project that includes an ATmega32 microcontroller, an LM35 temperature sensor, an LCD display, and a power supply. The project reads the temperature from the sensor and displays it on the LCD screen. I also designed the PCB layout using Proteus. For programming the microcontroller, I used Atmel Studio IDE.
 
-[pcb4.bmp](https://github.com/user-attachments/files/22068466/pcb4.bmp)
+PCB:
 
 <img width="1600" height="900" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/182174fa-4a5b-4e2e-a1aa-469897bcb964" />
 
@@ -10,7 +10,7 @@ I have developed a project that includes an ATmega32 microcontroller, an LM35 te
 
 <img width="1600" height="900" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/3bf1117d-6bf8-468d-88e8-ee11d6125618" />
 
-[Atmega32-lm35-Schematic.bmp](https://github.com/user-attachments/files/22068479/Atmega32-lm35-Schematic.bmp)
+Simulation:
 
 <img width="1600" height="900" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/e3afd7a3-b4ba-4f5a-a5f7-8d540936d59c" />
 
