@@ -4,11 +4,11 @@ I have developed a project that includes an ATmega32 microcontroller, an LM35 te
 
 PCB:
 
-<img width="1600" height="900" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/182174fa-4a5b-4e2e-a1aa-469897bcb964" />
+<img width="1600" height="900" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/eeb9d20f-7411-4790-b8dc-29b494df34f1" />
 
-<img width="1600" height="900" alt="Screenshot (609)" src="https://github.com/user-attachments/assets/41f1ca4d-8625-43ea-9210-3f199bc0276f" />
+<img width="1600" height="900" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/48f57486-f7b0-44ec-9d5a-b2e509f7bfbc" />
 
-<img width="1600" height="900" alt="Screenshot (608)" src="https://github.com/user-attachments/assets/3bf1117d-6bf8-468d-88e8-ee11d6125618" />
+<img width="1600" height="900" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/68566e16-33bc-49c4-889f-e6bbbe78c715" />
 
 Simulation:
 
