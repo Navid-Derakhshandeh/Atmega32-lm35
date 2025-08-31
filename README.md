@@ -4,9 +4,9 @@ I have developed a project that includes an ATmega32 microcontroller, an LM35 te
 
 PCB:
 
-<img width="1600" height="900" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/48f57486-f7b0-44ec-9d5a-b2e509f7bfbc" />
-
 <img width="1600" height="900" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/eeb9d20f-7411-4790-b8dc-29b494df34f1" />
+
+<img width="1600" height="900" alt="Screenshot (613)" src="https://github.com/user-attachments/assets/48f57486-f7b0-44ec-9d5a-b2e509f7bfbc" />
 
 <img width="1600" height="900" alt="Screenshot (611)" src="https://github.com/user-attachments/assets/68566e16-33bc-49c4-889f-e6bbbe78c715" />
 
